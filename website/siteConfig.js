@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'zachary-jones-84761621b',
-        twitter: 'mezachj',
+        twitter: 'me_zachj',
         github: 'znoahjones',
     },
 
